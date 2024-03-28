@@ -1,0 +1,13 @@
+curenv
+
+dict_old
+
+.vscode
+
+src/concurrent_scrape.py
+src/single_scrape.py
+src/.ruff_cache
+
+tdk12/tdk-12.json
+
+.DS_Store

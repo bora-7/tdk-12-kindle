@@ -1,0 +1,7 @@
+certifi==2024.2.2
+charset-normalizer==3.3.2
+idna==3.6
+logging==0.4.9.6
+requests==2.31.0
+tenacity==8.2.3
+urllib3==1.26.18
