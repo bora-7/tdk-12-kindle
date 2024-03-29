@@ -1,5 +1,6 @@
-ı ş ğ
 ## TDK-12
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.md)
+
 Bu projede Güncel Türkçe Sözlük'ün 12. baskısı bulunmaktadır. Bu proje @ogun'un [guncel-turkce-sozluk](https://github.com/ogun/guncel-turkce-sozluk) projesi tarafından esinlenmiştir. 
 
 Bu sözlük 99,182 madde içermektedir. Bu 11. baskıdan 6776 kelime daha fazladır. Bir çok maddenin tanımı güncellenmiştir.
