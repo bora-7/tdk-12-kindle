@@ -1,5 +1,5 @@
 ## TDK-12
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/bora-7/tdk-12/blob/main/README.en.md)
 
 Bu projede Güncel Türkçe Sözlük'ün 12. baskısı bulunmaktadır. Bu proje @ogun'un [guncel-turkce-sozluk](https://github.com/ogun/guncel-turkce-sozluk) projesi tarafından esinlenmiştir. 
 
