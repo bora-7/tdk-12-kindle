@@ -12,6 +12,8 @@ After you decompress this file, you will find a `.mobi` file. All you have to do
 
 While making the kindle version, [this](https://github.com/anezih/guncel-turkce-sozluk-kindle-kobo-stardict) project's Hunspell files have been used.
 
+For more detailed instructions, look at this link (Turkish): https://tdk.boraakyuz.me/
+
 ## Code
 For those who are interested, the code can be found inside the `src` directory.
 

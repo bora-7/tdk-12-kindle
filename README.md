@@ -16,6 +16,8 @@ Bu dosyayı açtıktan sonra bir `.mobi` dosyası çıkacaktır. Bu dosyayı kin
 
 Kindle versiyonunu yaparken [bu](https://github.com/anezih/guncel-turkce-sozluk-kindle-kobo-stardict) projedeki Hunspell dosyaları tarafından yararlanılmıştır.
 
+Detaylı aşamalar için bu linke bakınız: https://tdk.boraakyuz.me/
+
 ## Kod
 
 İlgilenenler için bu sözlüğü yapan kod, `src` dosyasının içinde bulunmaktadır.
