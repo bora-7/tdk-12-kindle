@@ -6,7 +6,11 @@ This dictionary contains 99,182 definitions. This is 6776 definitions more than 
 The json file that contains all the definitions is inside the `tdk-12` folder. This file is zipped and is 11.8 MB in size. After it's decompressed, it's 124.8 MB.
 
 ## Kindle
-The Kindle and Kobo port of this dictionary is being made. The link will be put here when it's done.
+You can find the kindle port of this dictionary inside the `kindle` folder.
+
+After you decompress this file, you will find a `.mobi` file. All you have to do is push this file to kindle. The dictionary will automatically be active.
+
+While making the kindle version, [this](https://github.com/anezih/guncel-turkce-sozluk-kindle-kobo-stardict) project's Hunspell files have been used.
 
 ## Code
 For those who are interested, the code can be found inside the `src` directory.
