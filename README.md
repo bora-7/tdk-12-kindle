@@ -2,7 +2,7 @@
 
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/bora-7/tdk-12/blob/main/README.en.md)
 
-Bu projede Güncel Türkçe Sözlük'ün 12. baskısı bulunmaktadır. Bu proje [guncel-turkce-sozluk](https://github.com/ogun/guncel-turkce-sozluk) projesi tarafından esinlenmiştir.
+Bu projede Güncel Türkçe Sözlük'ün 12. baskısı bulunmaktadır. JSON dosyası halinde ve Kindle sözlüğü halinde bulunmaktadır.
 
 Bu sözlük 99,182 madde içermektedir. Bu 11. baskıdan 6776 kelime daha fazladır. Bir çok maddenin tanımı güncellenmiştir.
 

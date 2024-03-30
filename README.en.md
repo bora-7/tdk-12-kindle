@@ -1,5 +1,5 @@
 ## TDK-12
-This project contains the 12th edition of 'Guncel Turkce Sozluk' (translated to 'up-to-date Turkish dictionary'). This project is inspired by @ogun's [guncel-turkce-sozluk](https://github.com/ogun/guncel-turkce-sozluk) project.
+This project contains the 12th edition of 'Guncel Turkce Sozluk' (translated to 'up-to-date Turkish dictionary'). It has the JSON file and the Kindle dictionary in `.mobi` format.
 
 This dictionary contains 99,182 definitions. This is 6776 definitions more than the 11th edition. Many definitions have been updated.
 
