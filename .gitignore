@@ -8,6 +8,8 @@ src/concurrent_scrape.py
 src/single_scrape.py
 src/.ruff_cache
 
+kindle/tdk.mobi
+
 tdk12/tdk-12.json
 
 .DS_Store
