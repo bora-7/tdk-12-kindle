@@ -1,6 +1,6 @@
-## TDK-12
-
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/bora-7/tdk-12/blob/main/README.en.md)
+![TDK-12 Logo](/static/TDK12.png)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/bora-7/tdk-12/blob/main/README.en.md) 
+![Static Badge](https://img.shields.io/badge/total_definitions-99,182-brightgreen)
 
 Bu projede Güncel Türkçe Sözlük'ün 12. baskısı bulunmaktadır. JSON dosyası halinde ve Kindle sözlüğü halinde bulunmaktadır.
 
