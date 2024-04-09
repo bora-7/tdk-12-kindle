@@ -1,4 +1,5 @@
 ![TDK-12 Logo](/static/TDK12.png)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![Static Badge](https://img.shields.io/badge/total_definitions-99,182-brightgreen)
 
 This project contains the 12th edition of 'Guncel Turkce Sozluk' (translated to 'up-to-date Turkish dictionary'). It has the JSON file and the Kindle dictionary in `.mobi` format.
@@ -24,3 +25,5 @@ The code is split into 3 Python scripts:
 - `make_dictionary.py`: Takes in a chunk number, and puts the definitions for the words in that chunk into another file. The words whose definition are not found are written into a different file.
 - `combine_results.py`: When the results for each chunk are written, this script will append all the results into the same JSON file. The words that were previously skipped are tried again, and if required, their definition is taken from tdk-11.
 
+## License
+MIT
