@@ -1,3 +1,4 @@
+ğıöşüç
 ![TDK-12 Logo](/static/TDK12.png)
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/bora-7/tdk-12/blob/main/README.en.md) 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
@@ -15,7 +16,7 @@ Bu sözlügun Kindle versiyonunu `kindle` klasörünün içinde bulabilirsiniz.
 
 Bu dosyayı açtıktan sonra bir `.mobi` dosyası çıkacaktır. Bu dosyayı kindle'a aktarmanız yeterlidir. Sözlük otomatik olarak aktif olacaktır.
 
-Kindle versiyonunu yaparken [bu](https://github.com/anezih/guncel-turkce-sozluk-kindle-kobo-stardict) projedeki Hunspell dosyaları tarafından yararlanılmıştır.
+Kindle versiyonunu yaparken Anezih tarafından yazılan [guncel-turkce-sozluk-kindle-kobo-stardict](https://github.com/anezih/guncel-turkce-sozluk-kindle-kobo-stardict) projedeki Python betiği kullanılmıştır.
 
 Detaylı aşamalar için bu linke bakınız: https://tdk.boraakyuz.me/
 
