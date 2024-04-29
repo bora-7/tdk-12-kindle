@@ -13,7 +13,7 @@ You can find the kindle port of this dictionary inside the `kindle` folder.
 
 After you decompress this file, you will find a `.mobi` file. All you have to do is push this file to kindle. The dictionary will automatically be active.
 
-While making the kindle version, the Python script in [guncel-turkce-sozluk-kindle-kobo-stardict](https://github.com/anezih/guncel-turkce-sozluk-kindle-kobo-stardict) has been used.
+The old version (1.0) uses the dictionary-to-kindle converter script from [this](https://github.com/anezih/guncel-turkce-sozluk-kindle-kobo-stardict) repository. A new open-source version using Hunspell is being developed by a few Turkish developers. The current version and the upcoming one can be used or modified by anyone.
 
 For more detailed instructions, look at this link (Turkish): https://tdk.boraakyuz.me/
 
