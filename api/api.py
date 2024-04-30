@@ -19,7 +19,7 @@ app = FastAPI()
 
 # Allow requests from these origins
 origins = [
-    "https://api.boraakyuz.me",
+    "https://tdk.boraakyuz.me",
 ]
 
 app.add_middleware(
@@ -30,7 +30,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-@app.get("/search_word")
+@app.get("/tdk-12/search_word")
 def search_word(word: str = Query(..., min_length=2)):
     conn = sqlite3.connect("tdk12.db")
     cursor = conn.cursor()
@@ -49,7 +49,7 @@ def search_word(word: str = Query(..., min_length=2)):
     return {"matching_words": matching_words}
 
 
-@app.get("/get_definitions/{word}")
+@app.get("/tdk-12/get_definitions/{word}")
 def get_definitions(word: str):
     conn = sqlite3.connect("tdk12.db")
     cursor = conn.cursor()

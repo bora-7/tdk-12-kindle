@@ -1,1 +1,1 @@
-export const address="";
+export const address="https://api.boraakyuz.me/tdk-12";

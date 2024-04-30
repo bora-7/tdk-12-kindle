@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react'
 import axios from 'axios';
 import { ProgressSpinner } from 'primereact/progressspinner';
 import { Divider } from 'primereact/divider';
+import { address } from '../util/webAddress';
 
 type Props = {
   chosenWord: string;
@@ -17,7 +18,7 @@ const WordResult = ({ chosenWord }: Props) => {
     setIsLoading(true);
     const fetchDefinitions = async () => {
       try {
-        const response = await axios.get(`http://localhost:8000/get_definitions/${chosenWord}`);
+        const response = await axios.get(`${address}/get_definitions/${chosenWord}`);
         setDefinitions(response.data.definitions.split("|"));
         console.log(response.data.definitions);
       } catch (error) {

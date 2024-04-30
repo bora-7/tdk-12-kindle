@@ -3,6 +3,8 @@ import { DataTable } from 'primereact/datatable';
 import { Column } from 'primereact/column';
 import { AutoComplete, AutoCompleteCompleteEvent } from "primereact/autocomplete";
 import { InputText } from "primereact/inputtext";
+import { address } from '../util/webAddress';
+
 import axios from 'axios';
 
 type Props = {
@@ -18,7 +20,7 @@ const SearchBar = ({ setChosenWord }: Props) => {
     setValue(searchTerm);
 
     try {
-      const response = await axios.get(`http://localhost:8000/search_word?word=${searchTerm}`);
+      const response = await axios.get(`${address}/search_word?word=${searchTerm}`);
       const matchingWords = response.data.matching_words;
       setSearchResults(matchingWords)
       console.log('Matching words:', matchingWords);
