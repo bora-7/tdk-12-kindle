@@ -4,11 +4,11 @@ dict_old
 
 .vscode
 
-src/concurrent_scrape.py
-src/single_scrape.py
-src/.ruff_cache
+scripts/concurrent_scrape.py
+scripts/single_scrape.py
+scripts/.ruff_cache
 
-tdk12/tdk-12.json
+json/tdk-12.json
 
 kindle/tdk.mobi
 
