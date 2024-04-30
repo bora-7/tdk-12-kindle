@@ -2,14 +2,10 @@ import React, { useState } from 'react';
 import './App.css';
 import SearchBar from './Components/SearchBar';
 import WordResult from './Components/WordResult';
-import { Button } from 'primereact/button';
 
 function App() {
   const [chosenWord, setChosenWord] = useState<string>("")
 
-  const handleGithubClick = () => {
-
-  }
   return (
     <div className="App">
       <div className='headerSection'>
@@ -30,10 +26,6 @@ function App() {
       </div>
       <div className='footerSection'>
 
-        {/* <Button icon="pi pi-github" 
-          style={{ fontSize: '4rem' }}
-          onClick={() => window.open('https://github.com/bora-7/tdk-12-kindle')}
-        /> */}
         <i className="pi pi-github"
           style={{ fontSize: '2rem', cursor: 'pointer' }}
           onClick={() => window.open('https://github.com/bora-7/tdk-12-kindle')}
