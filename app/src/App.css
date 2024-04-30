@@ -1,0 +1,86 @@
+body {
+  background-color: beige;
+  margin: 40px auto;
+  max-width: 650px;
+  line-height: 1.6;
+  font-size: 18px;
+  color: #444;
+  padding: 0 10px;
+}
+
+.p-datatable-emptymessage {
+  display: none;
+}
+
+.App {
+  text-align: center;
+  justify-content: center;
+  margin: 3em;
+  margin-top: 0;
+  display: flex;
+  flex-direction: column;
+  min-height: 87vh;
+  color: #444;
+
+}
+
+.footerSection {
+  margin-top: auto;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+
+.searchBarSection, .definitionsSection {
+  display: flex;
+  justify-content: center;
+}
+
+.searchBar {
+  border-radius: 20px;
+}
+
+.p-inputtext:enabled:focus{
+  border-color: #444444 !important;
+  box-shadow: 0 0 0 0.02rem #444444 !important;
+}
+
+.wordResults {
+  margin-top: 2rem;
+  width: 450px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
