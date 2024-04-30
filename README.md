@@ -26,7 +26,7 @@ Bu sözlügun Kindle versiyonunu `kindle` klasörünün içinde bulabilirsiniz.
 
 Bu dosyayı açtıktan sonra bir `.mobi` dosyası çıkacaktır. Bu dosyayı kindle'a aktarmanız yeterlidir. Sözlük otomatik olarak aktif olacaktır.
 
-Eski versiyonda (1.0) [bu](https://github.com/anezih/guncel-turkce-sozluk-kindle-kobo-stardict) projedeki Python betiği kullanılmıştır.  Hunspell kullanan open-source bir versiyon birkaç Türk developer tarafından hazırlanmaktadır. şu anki versiyon ve bu versiyon herkes tarafından kullanılıp degiştirilebilir!
+Eski versiyonda (1.0) [bu](https://github.com/anezih/guncel-turkce-sozluk-kindle-kobo-stardict) projedeki Python betiği kullanılmıştır.  Hunspell kullanan open-source bir versiyon birkaç Türk developer tarafından hazırlanmaktadır. şu anki versiyon ve bu ilerideki versiyon herkes tarafından kullanılıp degiştirilebilir.
 
 Detaylı aşamalar için bu linke bakınız: https://tdk.boraakyuz.me/
 
