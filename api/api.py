@@ -1,15 +1,12 @@
 import sqlite3
 from pydantic import BaseModel
-from fastapi.responses import Response
 from typing import List
 
 from fastapi import (
     FastAPI,
     Query,
-    Depends,
     HTTPException,
 )
-from fastapi.security import HTTPBasic
 from fastapi.middleware.cors import CORSMiddleware
 
 
@@ -32,7 +29,6 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
-
 
 @app.get("/search_word")
 def search_word(word: str = Query(..., min_length=2)):
