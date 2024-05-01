@@ -53,12 +53,6 @@ body {
   width: 450px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -74,13 +68,16 @@ body {
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+
+
+@media screen and (max-width: 600px) {
+  .searchBarSection .searchBar {
+    width: 100%;
   }
-  to {
-    transform: rotate(360deg);
+
+  .searchBarSection .search-results-table {
+    width: 100%;
+    left: 0;
   }
 }
-
 

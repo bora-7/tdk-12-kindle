@@ -49,7 +49,7 @@ const SearchBar = ({ setChosenWord }: Props) => {
         <InputText
           placeholder="Search Words"
           className="searchBar"
-          style={{ width: '500px' }}
+          style={{ minWidth:'430px' }}
           value={value} // Bind the searchQuery state to the input
           onChange={(e) => handleSearch(e)}
         />
