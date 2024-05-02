@@ -1,4 +1,4 @@
-![TDK-12 Logo](/static/TDK12.png)
+![TDK-12 Logo](./static/TDK12.png)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![Static Badge](https://img.shields.io/badge/total_definitions-99,182-brightgreen)
 

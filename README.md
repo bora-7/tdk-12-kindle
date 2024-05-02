@@ -1,4 +1,4 @@
-![TDK-12 Logo](/static/TDK12.png)
+![TDK-12 Logo](./static/TDK12.png)
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/bora-7/tdk-12/blob/main/README.en.md) 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![Static Badge](https://img.shields.io/badge/total_definitions-99,182-brightgreen)
